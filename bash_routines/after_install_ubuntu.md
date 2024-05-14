@@ -126,7 +126,7 @@ git clone https://github.com/pdf/ubuntu-mono-powerline-ttf.git ~/.fonts/ubuntu-m
 fc-cache -vf
 ```
 
-Instalação:
+## Instalação:
 
 No prompt, digitar:
 ```bash
