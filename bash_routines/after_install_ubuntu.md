@@ -1,4 +1,4 @@
-# Instalação automatizada dos recursos em ambiente Linux/WSL via shell script para realizar a trilha
+# Instalação automatizada dos recursos em ambiente Linux/WSL via shell script após instalação do SO
 
 O script mais abaixo é um shell script e com ele é possível instalar todas as dependências necessárias para a realização da trilha, bem como outros aplicativos que serão úteis para o dia-a-dia da equipe.
 
